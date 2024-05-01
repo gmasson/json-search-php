@@ -1,0 +1,17 @@
+{
+    "name": "gmasson/json-search-php",
+    "description": "A PHP class designed to facilitate the display, search, and pagination of data stored in a JSON file.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gabriel Masson"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JsonSearchPHP\\": "./"
+        }
+    }
+}
